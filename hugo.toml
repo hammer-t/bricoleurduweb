@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "bricoleurduweb.fr"
 title        = "Thomas Hammer"
 languageCode = "fr-fr"
 theme        = "hello-friend-ng"
