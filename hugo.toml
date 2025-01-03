@@ -37,7 +37,7 @@ url = "https://github.com/hammer-t"
 
 [[params.social]]
 name = "email"
-url = "thomas@bricoleurduweb.fr"
+url = "mailto:thomas@bricoleurduweb.fr"
 
 [taxonomies]
     category = "blog"
