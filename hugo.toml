@@ -1,8 +1,7 @@
-baseurl      = "bricoleurduweb.fr"
+baseurl      = "https://www.bricoleurduweb.fr"
 title        = "Thomas Hammer"
 languageCode = "fr-fr"
 theme        = "hello-friend-ng"
-paginate     = 10
 
 [params]
   dateform        = "Jan 2, 2006"
