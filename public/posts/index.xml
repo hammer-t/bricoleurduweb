@@ -1,0 +1,51 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Thomas Hammer</title>
+        <link>//localhost:1313/posts/index.html</link>
+        <description>Recent content in Posts on Thomas Hammer</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Sat, 28 Oct 2023 10:00:00 +0100</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Third Fake Post</title>
+            <link>//localhost:1313/posts/fake-post-3.html</link>
+            <pubDate>Sat, 28 Oct 2023 10:00:00 +0100</pubDate>
+            
+            <guid>//localhost:1313/posts/fake-post-3.html</guid>
+            <description>&lt;p&gt;This is the third fake post.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>This is the third fake post.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Second Fake Post</title>
+            <link>//localhost:1313/posts/fake-post-2.html</link>
+            <pubDate>Fri, 27 Oct 2023 10:00:00 +0100</pubDate>
+            
+            <guid>//localhost:1313/posts/fake-post-2.html</guid>
+            <description>&lt;p&gt;This is the second fake post.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>This is the second fake post.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>First Fake Post</title>
+            <link>//localhost:1313/posts/fake-post-1.html</link>
+            <pubDate>Thu, 26 Oct 2023 10:00:00 +0100</pubDate>
+            
+            <guid>//localhost:1313/posts/fake-post-1.html</guid>
+            <description>&lt;p&gt;This is the first fake post. It has some content to verify the blog listing.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>This is the first fake post. It has some content to verify the blog listing.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

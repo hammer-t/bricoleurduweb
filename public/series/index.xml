@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Thomas Hammer</title>
-    <link>//localhost:1313/series/</link>
+    <link>//localhost:1313/series/index.html</link>
     <description>Recent content in Series on Thomas Hammer</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
