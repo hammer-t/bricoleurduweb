@@ -2,7 +2,7 @@ baseurl      = ""
 title        = "Thomas Hammer"
 languageCode = "fr-fr"
 theme        = "hello-friend-ng"
-relativeURLs = true
+relativeURLs = false
 uglyURLs     = true
 
 [params]

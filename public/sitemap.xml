@@ -2,19 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blog/index.html</loc>
+    <loc>//localhost:35305/tags/access-parental.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/blog/index.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/blog/bloquer-imprimante-acces-internet.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/tags/freebox.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/tags/hp.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/tags/imprimante.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/tags/index.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/index.html</loc>
+    <lastmod>2025-12-09T18:02:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:35305/blog/premier-article.html</loc>
     <lastmod>2025-12-09T17:36:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/premier-article.html</loc>
-    <lastmod>2025-12-09T17:36:00+01:00</lastmod>
+    <loc>//localhost:35305/categories/index.html</loc>
   </url><url>
-    <loc>//localhost:1313/index.html</loc>
-    <lastmod>2025-12-09T17:36:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/index.html</loc>
-  </url><url>
-    <loc>//localhost:1313/series/index.html</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/index.html</loc>
+    <loc>//localhost:35305/series/index.html</loc>
   </url>
 </urlset>
