@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:35305/tags/access-parental.html</loc>
+    <loc>//localhost:1313/tags/access-parental/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/blog/index.html</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/blog/bloquer-imprimante-acces-internet.html</loc>
+    <loc>//localhost:1313/blog/bloquer-imprimante-acces-internet/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/tags/freebox.html</loc>
+    <loc>//localhost:1313/tags/freebox/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/tags/hp.html</loc>
+    <loc>//localhost:1313/tags/hp/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/tags/imprimante.html</loc>
+    <loc>//localhost:1313/tags/imprimante/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/tags/index.html</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/index.html</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-12-09T18:02:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/blog/premier-article.html</loc>
+    <loc>//localhost:1313/blog/premier-article/</loc>
     <lastmod>2025-12-09T17:36:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:35305/categories/index.html</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:35305/series/index.html</loc>
+    <loc>//localhost:1313/series/</loc>
   </url>
 </urlset>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Thomas Hammer</title>
-    <link>//localhost:35305/blog/index.html</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on Thomas Hammer</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 09 Dec 2025 18:02:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:35305/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Dec 2025 11:42:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bloquer l&#39;accès à Internet de votre imprimante</title>
-      <link>//localhost:35305/blog/bloquer-imprimante-acces-internet.html</link>
-      <pubDate>Tue, 09 Dec 2025 18:02:00 +0100</pubDate>
-      <guid>//localhost:35305/blog/bloquer-imprimante-acces-internet.html</guid>
-      <description>&lt;p&gt;Comme je vous le disais, je fais de la bidouille.&#xA;En lisant divers articles sur le net et en voyant les pratiques de HP vis à vis de leur imprimante, à savoir qu&amp;rsquo;ils &lt;a href=&#34;https://hardware.developpez.com/actu/344505/HP-desactive-les-imprimantes-de-ses-clients-pour-utilisation-des-cartouches-d-encre-d-entreprises-concurrentes-et-le-justifie-par-la-necessite-d-assurer-leur-securite/&#34;&gt;bloquent les imprimantes n&amp;rsquo;utilisant pas leur cartouche&lt;/a&gt;, j&amp;rsquo;ai décidé que je devais faire quelque chose.&lt;/p&gt;&#xA;&lt;p&gt;Le plus simple, si vous êtes sur une configuration assez standard sur votre réseau domestique, avec un routeur fourni par votre fournisseur d&amp;rsquo;accès internet, c&amp;rsquo;est de bloquer l&amp;rsquo;accès à Internet en utilisant l&amp;rsquo;accès parental !&lt;/p&gt;</description>
+      <link>//localhost:1313/blog/bloquer-imprimante-acces-internet/</link>
+      <pubDate>Wed, 10 Dec 2025 11:42:00 +0100</pubDate>
+      <guid>//localhost:1313/blog/bloquer-imprimante-acces-internet/</guid>
+      <description>&lt;p&gt;Comme je vous le disais, je fais de la bidouille.&lt;/p&gt;&#xA;&lt;p&gt;En lisant divers articles sur le net et en voyant les pratiques de HP vis à vis de leur imprimante, à savoir qu&amp;rsquo;ils &lt;a href=&#34;https://hardware.developpez.com/actu/344505/HP-desactive-les-imprimantes-de-ses-clients-pour-utilisation-des-cartouches-d-encre-d-entreprises-concurrentes-et-le-justifie-par-la-necessite-d-assurer-leur-securite/&#34;&gt;bloquent les imprimantes n&amp;rsquo;utilisant pas leur cartouche&lt;/a&gt;, j&amp;rsquo;ai décidé que je devais faire quelque chose. Sinon, mon imprimante risquait de devenir inutilisable.&lt;/p&gt;&#xA;&lt;p&gt;Le plus simple, si vous êtes sur une configuration assez standard sur votre réseau domestique, avec un routeur fourni par votre fournisseur d&amp;rsquo;accès internet, c&amp;rsquo;est de bloquer l&amp;rsquo;accès à Internet en utilisant l&amp;rsquo;accès parental !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Premier article du blog, qu&#39;est ce qu&#39;on va faire ?</title>
-      <link>//localhost:35305/blog/premier-article.html</link>
+      <link>//localhost:1313/blog/premier-article/</link>
       <pubDate>Tue, 09 Dec 2025 17:36:00 +0100</pubDate>
-      <guid>//localhost:35305/blog/premier-article.html</guid>
+      <guid>//localhost:1313/blog/premier-article/</guid>
       <description>&lt;p&gt;Cela fait longtemps que je pensais à faire un blog, je ne me suis pas pris le temps de le faire.&#xA;Mais aujourd&amp;rsquo;hui, je me suis dit que je vais le faire.&lt;/p&gt;&#xA;&lt;p&gt;A quoi bon de faire un blog ? Surtout, en 2025 ?&lt;/p&gt;&#xA;&lt;p&gt;Je suis un développeur web et j&amp;rsquo;aime également bidouiller des trucs &lt;del&gt;obscures&lt;/del&gt; sur des serveurs, alors pourquoi pas parler de ça sur ce blog ?&lt;/p&gt;&#xA;&lt;p&gt;Maintenant qu&amp;rsquo;on a trouvé le sujet, on va expliquer pourquoi. Je souhaite m&amp;rsquo;améliorer dans l&amp;rsquo;explication de sujets techniques, car bien souvent, j&amp;rsquo;apprends et comprends des sujets, mais une fois fais, j&amp;rsquo;ai du mal à les expliquer. Je souhaite améliorer ce point et, je pense, que la rédaction de contenu pourrait m&amp;rsquo;aider puisqu&amp;rsquo;il faut les synthétiser.&lt;/p&gt;</description>
     </item>
   </channel>

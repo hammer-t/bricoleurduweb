@@ -3,7 +3,7 @@ title        = "Thomas Hammer"
 languageCode = "fr-fr"
 theme        = "hello-friend-ng"
 relativeURLs = false
-uglyURLs     = true
+uglyURLs     = false
 
 [params]
   dateform        = "Jan 2, 2006"

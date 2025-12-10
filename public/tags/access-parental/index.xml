@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Access Parental on Thomas Hammer</title>
-    <link>//localhost:35305/tags/access-parental.html</link>
+    <link>//localhost:1313/tags/access-parental/</link>
     <description>Recent content in Access Parental on Thomas Hammer</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 09 Dec 2025 18:02:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:35305/tags/access-parental/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/access-parental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bloquer l&#39;accès à Internet de votre imprimante</title>
-      <link>//localhost:35305/blog/bloquer-imprimante-acces-internet.html</link>
+      <link>//localhost:1313/blog/bloquer-imprimante-acces-internet/</link>
       <pubDate>Tue, 09 Dec 2025 18:02:00 +0100</pubDate>
-      <guid>//localhost:35305/blog/bloquer-imprimante-acces-internet.html</guid>
-      <description>&lt;p&gt;Comme je vous le disais, je fais de la bidouille.&#xA;En lisant divers articles sur le net et en voyant les pratiques de HP vis à vis de leur imprimante, à savoir qu&amp;rsquo;ils &lt;a href=&#34;https://hardware.developpez.com/actu/344505/HP-desactive-les-imprimantes-de-ses-clients-pour-utilisation-des-cartouches-d-encre-d-entreprises-concurrentes-et-le-justifie-par-la-necessite-d-assurer-leur-securite/&#34;&gt;bloquent les imprimantes n&amp;rsquo;utilisant pas leur cartouche&lt;/a&gt;, j&amp;rsquo;ai décidé que je devais faire quelque chose.&lt;/p&gt;&#xA;&lt;p&gt;Le plus simple, si vous êtes sur une configuration assez standard sur votre réseau domestique, avec un routeur fourni par votre fournisseur d&amp;rsquo;accès internet, c&amp;rsquo;est de bloquer l&amp;rsquo;accès à Internet en utilisant l&amp;rsquo;accès parental !&lt;/p&gt;</description>
+      <guid>//localhost:1313/blog/bloquer-imprimante-acces-internet/</guid>
+      <description>&lt;p&gt;Comme je vous le disais, je fais de la bidouille.&lt;/p&gt;&#xA;&lt;p&gt;En lisant divers articles sur le net et en voyant les pratiques de HP vis à vis de leur imprimante, à savoir qu&amp;rsquo;ils &lt;a href=&#34;https://hardware.developpez.com/actu/344505/HP-desactive-les-imprimantes-de-ses-clients-pour-utilisation-des-cartouches-d-encre-d-entreprises-concurrentes-et-le-justifie-par-la-necessite-d-assurer-leur-securite/&#34;&gt;bloquent les imprimantes n&amp;rsquo;utilisant pas leur cartouche&lt;/a&gt;, j&amp;rsquo;ai décidé que je devais faire quelque chose. Sinon, mon imprimante risquait de devenir inutilisable.&lt;/p&gt;&#xA;&lt;p&gt;Le plus simple, si vous êtes sur une configuration assez standard sur votre réseau domestique, avec un routeur fourni par votre fournisseur d&amp;rsquo;accès internet, c&amp;rsquo;est de bloquer l&amp;rsquo;accès à Internet en utilisant l&amp;rsquo;accès parental !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
