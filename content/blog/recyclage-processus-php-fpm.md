@@ -1,6 +1,6 @@
 ---
-title: "Premier article du blog, qu'est ce qu'on va faire ?"
-date: 2025-12-09T17:36:00+01:00
+title: "Recyclage des processus php-fpm"
+date: 2026-05-28T17:36:00+01:00
 draft: false
 ---
 
