@@ -4,21 +4,21 @@ date: 2026-05-28T17:36:00+01:00
 draft: false
 ---
 
-Cela fait longtemps que je pensais à faire un blog, je ne me suis pas pris le temps de le faire. 
-Mais aujourd'hui, je me suis dit que je vais le faire. 
+Bon ! Voilà ! Je suis de retour.
+Je ne vais pas la blâmer et dire que c'était sa faute, mais je crois qu'on a enfin pu sortir de cette période tumultueuse du bébé qui démarre la crèche en pleine période hivernale et... qui tombe malade toutes les semaines et... le papa avec :) (non, j'avoue, cette fois ci je l'étais moins qu'avec le premier, et c'est un win pour moi !)
 
-A quoi bon de faire un blog ? Surtout, en 2025 ?
+Alors, après cette belle intro qui n'a rien a voir avec le sujet : parlons du recyclage des processus php-fpm, qui, en soit, n'est pas compliqué, mais je crois assez méconnu. Et des fois, des sujets comme ça, ne devrait pas l'être !
 
-Je suis un développeur web et j'aime également bidouiller des trucs ~~obscures~~ sur des serveurs, alors pourquoi pas parler de ça sur ce blog ?
+Dernièrement, dans mon boulot, j'ai a nouveau dû revoir comment ça fonctionne, car je l'avais vu au moment de configurer mes pools, puis comme à chaque fois, une fois qu'on a fait, on oublie !
 
-Maintenant qu'on a trouvé le sujet, on va expliquer pourquoi. Je souhaite m'améliorer dans l'explication de sujets techniques, car bien souvent, j'apprends et comprends des sujets, mais une fois fais, j'ai du mal à les expliquer. Je souhaite améliorer ce point et, je pense, que la rédaction de contenu pourrait m'aider puisqu'il faut les synthétiser. 
+Alors, pourquoi on recycle un processus php-fpm ? 
+Et bien, avec le temps, le processus peut avoir des fuites de mémoires (car des variables static restent entre les cycles) ou simplement avoir des données en cache (également des variables statiques, par exemple). Un processus traitant des centaines voir des milliers de requêtes va donc, potentiellement, empiler tout ça.
 
-Après, je me l'avoue à demi mot, j'ai également un autre projet en tête et pour cela je voudrais m'excercer simplement sur la rédaction. Mais on en parlera, peut être, un jour, ou plutôt dans un lointain futur.
+Le principal moyen de forcer un recyclage de processus est d'indiquer `max_requests` dans la configuration du pool.
+Ce paramètre va permettre d'indiquer au service que, après 500 cycles, on kill le processus et on en refait un autre.
+Via cette commande, le processus va finir son dernier cycle, tuer la processus et le remplacer.
 
-Alors **bonjour et bienvenue sur mon blog** ! 
+Il existe néanmoins un autre paramètre, plus brutal, qui est `request_terminate_timeout`, celui ci, qui prends des valeurs comme `15s` pour 15secondes, va lancer un `SIGKILL` sur le processus, si celui ci dépasse le temps alloué au processus.
 
-Je m'appelle Thomas Hammer, j'ai, à l'heure ou j'écris ces lignes, 35 ans. Je suis papa de 2 enfants en bas âge et j'espère qu'ils me laisseront le temps d'entretenir ce blog (en réalité, je dois me donner le temps en ayant de la motivation ~~bye bye le canapé tous les soirs~~).
-
-Côté technique, ce blog est propulsé par [Hugo CMS](https://gohugo.io/), un générateur de site statique. L'hébergement est fait sur GitHub Pages.
-
-Voilà voilà, à très bientôt sur mon blog !
+Et voilà, that's it !
+On reprend tranquillement l'édition d'articles.
